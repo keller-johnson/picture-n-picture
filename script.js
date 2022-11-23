@@ -1,1 +1,1 @@
-console.log("CUM");
+console.log("test");
